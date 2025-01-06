@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DandreOpperman
 - 👀 I’m interested in full-stack software development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on react web apps
 - 📫 How to reach me email me at dandreopperman@gmail.com
 - 😄 Pronouns: he/him
